@@ -7523,12 +7523,12 @@
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_reader(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_reader(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.FunctionalCall:<SimpleString:attr_reader>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@19110caf:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@19110caf:1:1
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@382ac61:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@382ac61:1:1
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@78031613:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@78031613:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@5bf33511:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@5bf33511:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@22491a97:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@22491a97:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@6d70c116:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@6d70c116:1:1
 /Users/miky/.rvm/gems/jruby-1.7.4/gems/mirah-0.1.1-java/lib/mirah/jvm/types/intrinsics.rb:88 warning: ambiguous Java methods found, using mirah.lang.ast.NodeList(java.util.List)
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Body.contentView()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
@@ -7569,10 +7569,10 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@78031613:1:1
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_reader(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_reader(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.FunctionalCall:<SimpleString:attr_reader>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@2452a793:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@2452a793:1:1
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@2e77b686:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@2e77b686:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@6a8cd8f0:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@6a8cd8f0:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@44f6ab36:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@44f6ab36:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Body.bitmap()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'bitmap' on class #<TypeDefinition org.mirah.gallery.Body>
@@ -7598,10 +7598,10 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@2e77b686:1:1
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_writer(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_writer(mirah.lang.ast.Hash) from org.mirah.gallery.Body
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.FunctionalCall:<SimpleString:attr_writer>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@2746f61d:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@2746f61d:1:1
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@23c7fe10:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@23c7fe10:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@3ae19358:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@3ae19358:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@2f90949b:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@2f90949b:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Body.bitmap_set(android.graphics.Bitmap)
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params (android.graphics.Bitmap)
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'bitmap_set' on class #<TypeDefinition org.mirah.gallery.Body>
@@ -9188,8 +9188,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@23c7fe10:1:1
 [1m* [MetaType[39m] [0mFound method android.hardware.Camera.getNumberOfCameras() from android.hardware.Camera
 [1m* [IntegerType[39m] [0mFound method int.times(mirah.lang.ast.Block) from int
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:times>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@269b8c6c:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@269b8c6c:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@406564e6:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@406564e6:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.CameraPreview.i()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'i' on class #<TypeDefinition org.mirah.gallery.CameraPreview>
@@ -10287,8 +10287,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@269b8c6c:1:1
 [1m* [TypeDefinition[39m] [0mFailed to locate method org.mirah.gallery.FitCenterFrameLayout.childCount()
 [1m* [IntegerType[39m] [0mFound method int.times(mirah.lang.ast.Block) from int
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:times>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@7758002b:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@7758002b:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@2daf73a4:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@2daf73a4:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.FitCenterFrameLayout.i()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'i' on class #<TypeDefinition org.mirah.gallery.FitCenterFrameLayout>
@@ -10370,8 +10370,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@7758002b:1:1
 [1m* [TypeDefinition[39m] [0mFailed to locate method org.mirah.gallery.FitCenterFrameLayout.childCount()
 [1m* [IntegerType[39m] [0mFound method int.times(mirah.lang.ast.Block) from int
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:times>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@503b27cc:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@503b27cc:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@4344f7c5:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@4344f7c5:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.FitCenterFrameLayout.i()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'i' on class #<TypeDefinition org.mirah.gallery.FitCenterFrameLayout>
@@ -10732,10 +10732,10 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@503b27cc:1:1
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_writer(mirah.lang.ast.Hash) from org.mirah.gallery.Gallery
 [1m* [TypeDefMeta[39m] [0mFound method java.lang.Object.attr_writer(mirah.lang.ast.Hash) from org.mirah.gallery.Gallery
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.FunctionalCall:<SimpleString:attr_writer>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@3bc7b6fe:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@3bc7b6fe:1:1
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@34befc5b:3:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@34befc5b:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@10881e1:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@10881e1:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@5586db4e:3:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@5586db4e:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Gallery.currentTitlesAnimator_set(android.animation.Animator)
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params (android.animation.Animator)
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'currentTitlesAnimator_set' on class #<TypeDefinition org.mirah.gallery.Gallery>
@@ -12775,8 +12775,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@34befc5b:1:1
 [1m* [TypeDefinition[39m] [0mFailed to locate method org.mirah.gallery.Preview.sizes()
 [1m* [Type[39m] [0mFound method java.lang.Iterable.each(mirah.lang.ast.Block) from java.util.List
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:each>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@583b239e:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@583b239e:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@39ac16d2:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@39ac16d2:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Preview.size()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'size' on class #<TypeDefinition org.mirah.gallery.Preview>
@@ -12930,8 +12930,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@583b239e:1:1
 [1m* [TypeDefinition[39m] [0mFailed to locate method org.mirah.gallery.Preview.sizes()
 [1m* [Type[39m] [0mFound method java.lang.Iterable.each(mirah.lang.ast.Block) from java.util.List
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:each>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@90227ed:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@90227ed:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@6e09f16:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@6e09f16:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Preview.size()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'size' on class #<TypeDefinition org.mirah.gallery.Preview>
@@ -13167,8 +13167,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@90227ed:1:1
 [1m* [TypeDefMeta[39m] [0mFound method org.mirah.gallery.Directory.getCategoryCount() from org.mirah.gallery.Directory
 [1m* [IntegerType[39m] [0mFound method int.times(mirah.lang.ast.Block) from int
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:times>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@7e8c37b3:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@7e8c37b3:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@26b61e7f:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@26b61e7f:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Titles.bar()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'bar' on class #<TypeDefinition org.mirah.gallery.Titles>
@@ -13796,8 +13796,8 @@ compile.mirah:67:in `run'
 [1m* [TypeDefinition[39m] [0mFound method org.mirah.gallery.DirectoryCategory.getEntryCount() from org.mirah.gallery.DirectoryCategory
 [1m* [IntegerType[39m] [0mFound method int.times(mirah.lang.ast.Block) from int
 [1m* [Typer[39m] [0mExpanding macro <mirah.lang.ast.Call:<SimpleString:times>>
-WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@41310dad:5:1
-NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
+WARNING: Misaligned end at mirah.lang.ast.StringCodeSource@4c39e0:5:1
+NOTE: closes block at mirah.lang.ast.StringCodeSource@4c39e0:1:1
 [1m* [TypeDefinition[39m] [0mNo exact match for org.mirah.gallery.Titles.adapter()
 [1m* [TypeDefinition[39m] [0mBeginning JLS phase 1 search with params ()
 [1m* [TypeDefinition[39m] [0mAttempting instance field lookup for 'adapter' on class #<TypeDefinition org.mirah.gallery.Titles>
@@ -15538,9 +15538,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                               <SimpleString:category>
                             <mirah.lang.ast.LocalAccess:<SimpleString:entryId>>: #<IntegerType int>
                               <SimpleString:entryId>
-                        <mirah.lang.ast.LocalAssignment:<SimpleString:titlesFrag>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@26e4757f]]>
+                        <mirah.lang.ast.LocalAssignment:<SimpleString:titlesFrag>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@7a7d0e26]]>
                           <SimpleString:titlesFrag>
-                          <mirah.lang.ast.FunctionalCall:<SimpleString:TitlesFragment>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@26e4757f]]>
+                          <mirah.lang.ast.FunctionalCall:<SimpleString:TitlesFragment>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@7a7d0e26]]>
                             <SimpleString:TitlesFragment>
                             <mirah.lang.ast.NodeList>
                               <mirah.lang.ast.Call:<SimpleString:findFragmentById>>: #<Type android.app.Fragment>
@@ -15554,8 +15554,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                                       <SimpleString:org.mirah.gallery.R$id>
                                     <SimpleString:titles_frag>
                                     <mirah.lang.ast.NodeList>
-                        <mirah.lang.ast.Call:<SimpleString:selectPosition>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@26e4757f]]>
-                          <mirah.lang.ast.VCall:<SimpleString:titlesFrag>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@26e4757f]]>
+                        <mirah.lang.ast.Call:<SimpleString:selectPosition>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@7a7d0e26]]>
+                          <mirah.lang.ast.VCall:<SimpleString:titlesFrag>>: <Error: [[Cannot find instance method TitlesFragment(android.app.Fragment) on org.mirah.gallery.Body, mirah.lang.ast.PositionImpl@7a7d0e26]]>
                             <SimpleString:titlesFrag>
                           <SimpleString:selectPosition>
                           <mirah.lang.ast.NodeList>
@@ -15720,7 +15720,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                               <Boolean:false>: #<BooleanType boolean>
                         <mirah.lang.ast.If>: #<Type java.lang.Object>
                           <mirah.lang.ast.Not>: #<BooleanType boolean>
-                            <mirah.lang.ast.Call:<SimpleString:compress>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@3d92d019]]>
+                            <mirah.lang.ast.Call:<SimpleString:compress>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@41feeacb]]>
                               <mirah.lang.ast.Call:<SimpleString:bitmap>>: #<Type android.graphics.Bitmap>
                                 <mirah.lang.ast.LocalAccess:<SimpleString:this>>: #<TypeDefinition org.mirah.gallery.Body>
                                   <SimpleString:this>
@@ -15728,8 +15728,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                                 <mirah.lang.ast.NodeList>
                               <SimpleString:compress>
                               <mirah.lang.ast.NodeList>
-                                <mirah.lang.ast.Call:<SimpleString:JPEG>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@3d92d019]]>
-                                  <mirah.lang.ast.Call:<SimpleString:CompressFormat>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@3d92d019]]>
+                                <mirah.lang.ast.Call:<SimpleString:JPEG>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@41feeacb]]>
+                                  <mirah.lang.ast.Call:<SimpleString:CompressFormat>>: <Error: [[Internal error: Class 'android.os.Parcelable' not found., mirah.lang.ast.PositionImpl@41feeacb]]>
                                     <mirah.lang.ast.Constant:<SimpleString:Bitmap>>: #<MetaType android.graphics.Bitmap>
                                       <SimpleString:Bitmap>
                                     <SimpleString:CompressFormat>
@@ -15820,7 +15820,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.OptionalArgumentList>
                     <mirah.lang.ast.RequiredArgumentList>
                   <SimpleString:void>
-                  <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method startActivity(android.content.Intent) on org.mirah.gallery.Body$6, mirah.lang.ast.PositionImpl@12977ada]]>
+                  <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method startActivity(android.content.Intent) on org.mirah.gallery.Body$6, mirah.lang.ast.PositionImpl@3acbbfa1]]>
                     <mirah.lang.ast.If>: Type(implicit_nil)
                       <mirah.lang.ast.Call:<SimpleString:==>>: #<BooleanType boolean>
                         <mirah.lang.ast.Cast>: #<Type java.lang.Boolean>
@@ -15873,7 +15873,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                       <SimpleString:setType>
                       <mirah.lang.ast.NodeList>
                         <SimpleString:image/jpeg>: #<StringType java.lang.String>
-                    <mirah.lang.ast.FunctionalCall:<SimpleString:startActivity>>: <Error: [[Cannot find instance method startActivity(android.content.Intent) on org.mirah.gallery.Body$6, mirah.lang.ast.PositionImpl@12977ada]]>
+                    <mirah.lang.ast.FunctionalCall:<SimpleString:startActivity>>: <Error: [[Cannot find instance method startActivity(android.content.Intent) on org.mirah.gallery.Body$6, mirah.lang.ast.PositionImpl@3acbbfa1]]>
                       <SimpleString:startActivity>
                       <mirah.lang.ast.NodeList>
                         <mirah.lang.ast.Call:<SimpleString:createChooser>>: #<Type android.content.Intent>
@@ -16156,9 +16156,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
               <mirah.lang.ast.NodeList>
                 <mirah.lang.ast.LocalAccess:<SimpleString:state>>: #<Type android.os.Bundle>
                   <SimpleString:state>
-            <mirah.lang.ast.FieldAssign:<SimpleString:preview>>: <Error: [[Cannot find static method new(android.content.Context) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@6515486b]]>
+            <mirah.lang.ast.FieldAssign:<SimpleString:preview>>: <Error: [[Cannot find static method new(android.content.Context) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@58459ca5]]>
               <SimpleString:preview>
-              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find static method new(android.content.Context) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@6515486b]]>
+              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find static method new(android.content.Context) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@58459ca5]]>
                 <mirah.lang.ast.Constant:<SimpleString:Preview>>: #<TypeDefMeta org.mirah.gallery.Preview>
                   <SimpleString:Preview>
                 <SimpleString:new>
@@ -16177,10 +16177,10 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                 <SimpleString:getNumberOfCameras>
                 <mirah.lang.ast.NodeList>
               <mirah.lang.ast.AnnotationList>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
               <SimpleString:cameraInfo>
-              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
-                <mirah.lang.ast.Constant:<SimpleString:CameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
+              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
+                <mirah.lang.ast.Constant:<SimpleString:CameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
                   <SimpleString:CameraInfo>
                 <SimpleString:new>
                 <mirah.lang.ast.NodeList>
@@ -16207,26 +16207,26 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                 <mirah.lang.ast.NodeList>: Type(implicit_nil)
                 <mirah.lang.ast.NodeList>: #<IntegerType int>
                   <mirah.lang.ast.NodeList>: #<IntegerType int>
-                    <mirah.lang.ast.Call:<SimpleString:getCameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
+                    <mirah.lang.ast.Call:<SimpleString:getCameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
                       <mirah.lang.ast.Constant:<SimpleString:Camera>>: #<MetaType android.hardware.Camera>
                         <SimpleString:Camera>
                       <SimpleString:getCameraInfo>
                       <mirah.lang.ast.NodeList>
                         <mirah.lang.ast.LocalAccess:<SimpleString:i>>: #<IntegerType int>
                           <SimpleString:i>
-                        <mirah.lang.ast.VCall:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
+                        <mirah.lang.ast.VCall:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
                           <SimpleString:cameraInfo>
                     <mirah.lang.ast.If>: #<IntegerType int>
-                      <mirah.lang.ast.Call:<SimpleString:==>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
-                        <mirah.lang.ast.Call:<SimpleString:facing>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
-                          <mirah.lang.ast.VCall:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@7c0334d6]]>
+                      <mirah.lang.ast.Call:<SimpleString:==>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
+                        <mirah.lang.ast.Call:<SimpleString:facing>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
+                          <mirah.lang.ast.VCall:<SimpleString:cameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@2f084681]]>
                             <SimpleString:cameraInfo>
                           <SimpleString:facing>
                           <mirah.lang.ast.NodeList>
                         <SimpleString:==>
                         <mirah.lang.ast.NodeList>
-                          <mirah.lang.ast.Call:<SimpleString:CAMERA_FACING_BACK>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@227a448]]>
-                            <mirah.lang.ast.Constant:<SimpleString:CameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@227a448]]>
+                          <mirah.lang.ast.Call:<SimpleString:CAMERA_FACING_BACK>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@1417b905]]>
+                            <mirah.lang.ast.Constant:<SimpleString:CameraInfo>>: <Error: [[Cannot find class CameraInfo, mirah.lang.ast.PositionImpl@1417b905]]>
                               <SimpleString:CameraInfo>
                             <SimpleString:CAMERA_FACING_BACK>
                             <mirah.lang.ast.NodeList>
@@ -17140,7 +17140,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
       <mirah.lang.ast.Constant:<SimpleString:DirectoryCategory>>
         <SimpleString:DirectoryCategory>
       <mirah.lang.ast.NodeList>: <MethodType: name=getEntry [#<IntegerType int>] : #<TypeDefinition org.mirah.gallery.DirectoryEntry>>
-        <mirah.lang.ast.ConstructorDefinition:<SimpleString:initialize>>: <MethodType: name=initialize [#<StringType java.lang.String>, #<Java::OrgMirahTyper::ErrorType:0x5b900e6e>] : #<ArrayType org.mirah.gallery.DirectoryEntry>>
+        <mirah.lang.ast.ConstructorDefinition:<SimpleString:initialize>>: <MethodType: name=initialize [#<StringType java.lang.String>, #<Java::OrgMirahTyper::ErrorType:0x10a22fc4>] : #<ArrayType org.mirah.gallery.DirectoryEntry>>
           <SimpleString:initialize>
           <mirah.lang.ast.Arguments>: #<VoidType void>
             <mirah.lang.ast.RequiredArgumentList>
@@ -17390,9 +17390,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
             <mirah.lang.ast.RequiredArgumentList>
           <SimpleString:void>
           <mirah.lang.ast.NodeList>: Type(null)
-            <mirah.lang.ast.LocalAssignment:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@f5a07b6]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@4ae4bfeb]]>
               <SimpleString:width>
-              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@f5a07b6]]>
+              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@4ae4bfeb]]>
                 <SimpleString:resolveSize>
                 <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.FunctionalCall:<SimpleString:getSuggestedMinimumWidth>>: #<IntegerType int>
@@ -17400,9 +17400,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.LocalAccess:<SimpleString:widthMeasureSpec>>: #<IntegerType int>
                     <SimpleString:widthMeasureSpec>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@231c8fac]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@53c532e5]]>
               <SimpleString:height>
-              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@231c8fac]]>
+              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@53c532e5]]>
                 <SimpleString:resolveSize>
                 <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.FunctionalCall:<SimpleString:getSuggestedMinimumHeight>>: #<IntegerType int>
@@ -17410,38 +17410,38 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.LocalAccess:<SimpleString:heightMeasureSpec>>: #<IntegerType int>
                     <SimpleString:heightMeasureSpec>
-            <mirah.lang.ast.FunctionalCall:<SimpleString:setMeasuredDimension>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@f5a07b6]]>
+            <mirah.lang.ast.FunctionalCall:<SimpleString:setMeasuredDimension>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@4ae4bfeb]]>
               <SimpleString:setMeasuredDimension>
               <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@f5a07b6]]>
+                <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@4ae4bfeb]]>
                   <SimpleString:width>
-                <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@231c8fac]]>
+                <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@53c532e5]]>
                   <SimpleString:height>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:childWidthSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:childWidthSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
               <SimpleString:childWidthSpec>
-              <mirah.lang.ast.Call:<SimpleString:makeMeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
-                <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
+              <mirah.lang.ast.Call:<SimpleString:makeMeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
+                <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
                   <SimpleString:MeasureSpec>
                 <SimpleString:makeMeasureSpec>
                 <mirah.lang.ast.NodeList>
-                  <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@f5a07b6]]>
+                  <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@4ae4bfeb]]>
                     <SimpleString:width>
-                  <mirah.lang.ast.Call:<SimpleString:UNSPECIFIED>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@29cc603d]]>
-                    <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@29cc603d]]>
+                  <mirah.lang.ast.Call:<SimpleString:UNSPECIFIED>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@598b083a]]>
+                    <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@598b083a]]>
                       <SimpleString:MeasureSpec>
                     <SimpleString:UNSPECIFIED>
                     <mirah.lang.ast.NodeList>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:childHeightSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@72fb6e9b]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:childHeightSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@353784ae]]>
               <SimpleString:childHeightSpec>
-              <mirah.lang.ast.Call:<SimpleString:makeMeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@72fb6e9b]]>
-                <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@72fb6e9b]]>
+              <mirah.lang.ast.Call:<SimpleString:makeMeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@353784ae]]>
+                <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@353784ae]]>
                   <SimpleString:MeasureSpec>
                 <SimpleString:makeMeasureSpec>
                 <mirah.lang.ast.NodeList>
-                  <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@231c8fac]]>
+                  <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.FitCenterFrameLayout, mirah.lang.ast.PositionImpl@53c532e5]]>
                     <SimpleString:height>
-                  <mirah.lang.ast.Call:<SimpleString:UNSPECIFIED>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@209d3026]]>
-                    <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@209d3026]]>
+                  <mirah.lang.ast.Call:<SimpleString:UNSPECIFIED>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@97e2437]]>
+                    <mirah.lang.ast.Constant:<SimpleString:MeasureSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@97e2437]]>
                       <SimpleString:MeasureSpec>
                     <SimpleString:UNSPECIFIED>
                     <mirah.lang.ast.NodeList>
@@ -17471,8 +17471,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.LocalAccess:<SimpleString:$gensym$0>>: #<IntegerType int>
                       <SimpleString:$gensym$0>
                 <mirah.lang.ast.NodeList>: Type(implicit_nil)
-                <mirah.lang.ast.NodeList>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
-                  <mirah.lang.ast.Call:<SimpleString:measure>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
+                <mirah.lang.ast.NodeList>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
+                  <mirah.lang.ast.Call:<SimpleString:measure>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
                     <mirah.lang.ast.FunctionalCall:<SimpleString:getChildAt>>: #<Type android.view.View>
                       <SimpleString:getChildAt>
                       <mirah.lang.ast.NodeList>
@@ -17480,9 +17480,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:i>
                     <SimpleString:measure>
                     <mirah.lang.ast.NodeList>
-                      <mirah.lang.ast.VCall:<SimpleString:childWidthSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@18bbe3dd]]>
+                      <mirah.lang.ast.VCall:<SimpleString:childWidthSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@45ee168a]]>
                         <SimpleString:childWidthSpec>
-                      <mirah.lang.ast.VCall:<SimpleString:childHeightSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@72fb6e9b]]>
+                      <mirah.lang.ast.VCall:<SimpleString:childHeightSpec>>: <Error: [[Cannot find class MeasureSpec, mirah.lang.ast.PositionImpl@353784ae]]>
                         <SimpleString:childHeightSpec>
                 <mirah.lang.ast.NodeList>: #<IntegerType int>
                   <mirah.lang.ast.NodeList>: #<IntegerType int>
@@ -17615,7 +17615,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                             <mirah.lang.ast.LocalAccess:<SimpleString:i>>: #<IntegerType int>
                               <SimpleString:i>
                     <mirah.lang.ast.If>: Type(null)
-                      <mirah.lang.ast.Call:<SimpleString:==>>: <Error: [[Cannot find class GONE, mirah.lang.ast.PositionImpl@a25abd1]]>
+                      <mirah.lang.ast.Call:<SimpleString:==>>: <Error: [[Cannot find class GONE, mirah.lang.ast.PositionImpl@5d990e8c]]>
                         <mirah.lang.ast.Call:<SimpleString:getVisibility>>: #<IntegerType int>
                           <mirah.lang.ast.LocalAccess:<SimpleString:child>>: #<Type android.view.View>
                             <SimpleString:child>
@@ -17623,7 +17623,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <mirah.lang.ast.NodeList>
                         <SimpleString:==>
                         <mirah.lang.ast.NodeList>
-                          <mirah.lang.ast.Constant:<SimpleString:GONE>>: <Error: [[Cannot find class GONE, mirah.lang.ast.PositionImpl@a25abd1]]>
+                          <mirah.lang.ast.Constant:<SimpleString:GONE>>: <Error: [[Cannot find class GONE, mirah.lang.ast.PositionImpl@5d990e8c]]>
                             <SimpleString:GONE>
                       <mirah.lang.ast.NodeList>: Type(null)
                         <mirah.lang.ast.Next>: Type(null)
@@ -19151,7 +19151,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
             <mirah.lang.ast.OptionalArgumentList>
             <mirah.lang.ast.RequiredArgumentList>
           <SimpleString:void>
-          <mirah.lang.ast.NodeList>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@340408e4]]>
+          <mirah.lang.ast.NodeList>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@173f9673]]>
             <mirah.lang.ast.LocalAssignment:<SimpleString:res>>: #<Type android.content.res.Resources>
               <SimpleString:res>
               <mirah.lang.ast.FunctionalCall:<SimpleString:getResources>>: #<Type android.content.res.Resources>
@@ -19161,10 +19161,10 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
               <SimpleString:notifMgr>
               <mirah.lang.ast.Cast>: #<Type android.app.NotificationManager>
                 <mirah.lang.ast.TypeRefImpl>
-                <mirah.lang.ast.FunctionalCall:<SimpleString:getSystemService>>: <Error: [[Cannot find class NOTIFICATION_SERVICE, mirah.lang.ast.PositionImpl@7bbf73a9]]>
+                <mirah.lang.ast.FunctionalCall:<SimpleString:getSystemService>>: <Error: [[Cannot find class NOTIFICATION_SERVICE, mirah.lang.ast.PositionImpl@74aeefa2]]>
                   <SimpleString:getSystemService>
                   <mirah.lang.ast.NodeList>
-                    <mirah.lang.ast.Constant:<SimpleString:NOTIFICATION_SERVICE>>: <Error: [[Cannot find class NOTIFICATION_SERVICE, mirah.lang.ast.PositionImpl@7bbf73a9]]>
+                    <mirah.lang.ast.Constant:<SimpleString:NOTIFICATION_SERVICE>>: <Error: [[Cannot find class NOTIFICATION_SERVICE, mirah.lang.ast.PositionImpl@74aeefa2]]>
                       <SimpleString:NOTIFICATION_SERVICE>
             <mirah.lang.ast.LocalAssignment:<SimpleString:builder>>: #<Type android.app.Notification$Builder>
               <SimpleString:builder>
@@ -19351,12 +19351,12 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                             <SimpleString:org.mirah.gallery.R$string>
                           <SimpleString:notification_text>
                           <mirah.lang.ast.NodeList>
-            <mirah.lang.ast.Call:<SimpleString:notify>>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@340408e4]]>
+            <mirah.lang.ast.Call:<SimpleString:notify>>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@173f9673]]>
               <mirah.lang.ast.LocalAccess:<SimpleString:notifMgr>>: #<Type android.app.NotificationManager>
                 <SimpleString:notifMgr>
               <SimpleString:notify>
               <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.Constant:<SimpleString:NOTIFICATION_DEFAULT>>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@340408e4]]>
+                <mirah.lang.ast.Constant:<SimpleString:NOTIFICATION_DEFAULT>>: <Error: [[Cannot find class NOTIFICATION_DEFAULT, mirah.lang.ast.PositionImpl@173f9673]]>
                   <SimpleString:NOTIFICATION_DEFAULT>
                 <mirah.lang.ast.Call:<SimpleString:getNotification>>: #<Type android.app.Notification>
                   <mirah.lang.ast.LocalAccess:<SimpleString:builder>>: #<Type android.app.Notification$Builder>
@@ -19690,7 +19690,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
           <mirah.lang.ast.TypeNameList>
           <mirah.lang.ast.AnnotationList>
       <mirah.lang.ast.TypeNameList>
-        <mirah.lang.ast.Constant:<SimpleString:TitlesOnItemSelectedListener>>: <Error: [[Cannot find class org.mirah.gallery.Titles.OnItemSelectedListener, mirah.lang.ast.PositionImpl@1bfe0540]]>
+        <mirah.lang.ast.Constant:<SimpleString:TitlesOnItemSelectedListener>>: <Error: [[Cannot find class org.mirah.gallery.Titles.OnItemSelectedListener, mirah.lang.ast.PositionImpl@26fc8079]]>
           <SimpleString:TitlesOnItemSelectedListener>
       <mirah.lang.ast.AnnotationList>
 <mirah.lang.ast.Script>: #<VoidType void>
@@ -19736,57 +19736,57 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
       <mirah.lang.ast.Constant:<SimpleString:ViewGroup>>
         <SimpleString:ViewGroup>
       <mirah.lang.ast.NodeList>: <MethodType: name=surfaceChanged [#<Type android.view.SurfaceHolder>, #<IntegerType int>, #<IntegerType int>, #<IntegerType int>] : #<VoidType void>>
-        <mirah.lang.ast.ConstructorDefinition:<SimpleString:initialize>>: <MethodType: name=initialize [#<Java::OrgMirahTyper::ErrorType:0x6347cd60>] : #<BooleanType boolean>>
+        <mirah.lang.ast.ConstructorDefinition:<SimpleString:initialize>>: <MethodType: name=initialize [#<Java::OrgMirahTyper::ErrorType:0x7efc8c8b>] : #<BooleanType boolean>>
           <SimpleString:initialize>
           <mirah.lang.ast.Arguments>: #<VoidType void>
             <mirah.lang.ast.RequiredArgumentList>
-              <mirah.lang.ast.RequiredArgument:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+              <mirah.lang.ast.RequiredArgument:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                 <SimpleString:context>
                 <mirah.lang.ast.Constant:<SimpleString:Context>>
                   <SimpleString:Context>
             <mirah.lang.ast.OptionalArgumentList>
             <mirah.lang.ast.RequiredArgumentList>
           <mirah.lang.ast.NodeList>: #<BooleanType boolean>
-            <mirah.lang.ast.Super>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.Super>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
               <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.VCall:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+                <mirah.lang.ast.VCall:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                   <SimpleString:context>
             <mirah.lang.ast.FieldAssign:<SimpleString:TAG>>: #<StringType java.lang.String>
               <SimpleString:TAG>
               <SimpleString:Preview>: #<StringType java.lang.String>
               <mirah.lang.ast.AnnotationList>
-            <mirah.lang.ast.FieldAssign:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.FieldAssign:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
               <SimpleString:surfaceView>
-              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+              <mirah.lang.ast.Call:<SimpleString:new>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                 <mirah.lang.ast.Constant:<SimpleString:SurfaceView>>: #<MetaType android.view.SurfaceView>
                   <SimpleString:SurfaceView>
                 <SimpleString:new>
                 <mirah.lang.ast.NodeList>
-                  <mirah.lang.ast.VCall:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+                  <mirah.lang.ast.VCall:<SimpleString:context>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                     <SimpleString:context>
               <mirah.lang.ast.AnnotationList>
-            <mirah.lang.ast.Call:<SimpleString:addView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.Call:<SimpleString:addView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
               <mirah.lang.ast.Self>: #<TypeDefinition org.mirah.gallery.Preview>
               <SimpleString:addView>
               <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.FieldAccess:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+                <mirah.lang.ast.FieldAccess:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                   <SimpleString:surfaceView>
-            <mirah.lang.ast.FieldAssign:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.FieldAssign:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
               <SimpleString:holder>
-              <mirah.lang.ast.Call:<SimpleString:getHolder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
-                <mirah.lang.ast.FieldAccess:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+              <mirah.lang.ast.Call:<SimpleString:getHolder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
+                <mirah.lang.ast.FieldAccess:<SimpleString:surfaceView>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                   <SimpleString:surfaceView>
                 <SimpleString:getHolder>
                 <mirah.lang.ast.NodeList>
               <mirah.lang.ast.AnnotationList>
-            <mirah.lang.ast.Call:<SimpleString:addCallback>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
-              <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.Call:<SimpleString:addCallback>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
+              <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                 <SimpleString:holder>
               <SimpleString:addCallback>
               <mirah.lang.ast.NodeList>
                 <mirah.lang.ast.Self>: #<TypeDefinition org.mirah.gallery.Preview>
-            <mirah.lang.ast.Call:<SimpleString:setType>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
-              <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+            <mirah.lang.ast.Call:<SimpleString:setType>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
+              <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                 <SimpleString:holder>
               <SimpleString:setType>
               <mirah.lang.ast.NodeList>
@@ -19881,13 +19881,13 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                 <mirah.lang.ast.LocalAccess:<SimpleString:camera>>: #<Type android.hardware.Camera>
                   <SimpleString:camera>
             <mirah.lang.ast.Rescue>: Type(null)
-              <mirah.lang.ast.NodeList>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
-                <mirah.lang.ast.Call:<SimpleString:setPreviewDisplay>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+              <mirah.lang.ast.NodeList>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
+                <mirah.lang.ast.Call:<SimpleString:setPreviewDisplay>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                   <mirah.lang.ast.LocalAccess:<SimpleString:camera>>: #<Type android.hardware.Camera>
                     <SimpleString:camera>
                   <SimpleString:setPreviewDisplay>
                   <mirah.lang.ast.NodeList>
-                    <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@3d2a8cf8]]>
+                    <mirah.lang.ast.FieldAccess:<SimpleString:holder>>: <Error: [[Cannot find class Context, mirah.lang.ast.PositionImpl@348d0d27]]>
                       <SimpleString:holder>
               <mirah.lang.ast.RescueClauseList>
                 <mirah.lang.ast.RescueClause>: #<IntegerType int>
@@ -19922,9 +19922,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
             <mirah.lang.ast.RequiredArgumentList>
           <SimpleString:void>
           <mirah.lang.ast.NodeList>: Type(implicit_nil)
-            <mirah.lang.ast.LocalAssignment:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
               <SimpleString:width>
-              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
                 <SimpleString:resolveSize>
                 <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.FunctionalCall:<SimpleString:getSuggestedMinimumWidth>>: #<IntegerType int>
@@ -19932,9 +19932,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.LocalAccess:<SimpleString:widthMeasureSpec>>: #<IntegerType int>
                     <SimpleString:widthMeasureSpec>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@697506e6]]>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@53f9f28b]]>
               <SimpleString:height>
-              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@697506e6]]>
+              <mirah.lang.ast.FunctionalCall:<SimpleString:resolveSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@53f9f28b]]>
                 <SimpleString:resolveSize>
                 <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.FunctionalCall:<SimpleString:getSuggestedMinimumHeight>>: #<IntegerType int>
@@ -19942,12 +19942,12 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                     <mirah.lang.ast.NodeList>
                   <mirah.lang.ast.LocalAccess:<SimpleString:heightMeasureSpec>>: #<IntegerType int>
                     <SimpleString:heightMeasureSpec>
-            <mirah.lang.ast.FunctionalCall:<SimpleString:setMeasuredDimension>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+            <mirah.lang.ast.FunctionalCall:<SimpleString:setMeasuredDimension>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
               <SimpleString:setMeasuredDimension>
               <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+                <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
                   <SimpleString:width>
-                <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@697506e6]]>
+                <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@53f9f28b]]>
                   <SimpleString:height>
             <mirah.lang.ast.If>: Type(implicit_nil)
               <mirah.lang.ast.Call:<SimpleString:nil?>>: #<BooleanType boolean>
@@ -19956,17 +19956,17 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                 <SimpleString:nil?>
                 <mirah.lang.ast.NodeList>
               <mirah.lang.ast.NodeList>: Type(implicit_nil)
-              <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
-                <mirah.lang.ast.FieldAssign:<SimpleString:previewSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+              <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
+                <mirah.lang.ast.FieldAssign:<SimpleString:previewSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
                   <SimpleString:previewSize>
-                  <mirah.lang.ast.FunctionalCall:<SimpleString:getOptimalPreviewSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+                  <mirah.lang.ast.FunctionalCall:<SimpleString:getOptimalPreviewSize>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
                     <SimpleString:getOptimalPreviewSize>
                     <mirah.lang.ast.NodeList>
                       <mirah.lang.ast.FieldAccess:<SimpleString:supportedPreviewSizes>>: #<Type java.util.List>
                         <SimpleString:supportedPreviewSizes>
-                      <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2c8a09da]]>
+                      <mirah.lang.ast.VCall:<SimpleString:width>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@2d9878a2]]>
                         <SimpleString:width>
-                      <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@697506e6]]>
+                      <mirah.lang.ast.VCall:<SimpleString:height>>: <Error: [[Cannot find instance method resolveSize(int, int) on org.mirah.gallery.Preview, mirah.lang.ast.PositionImpl@53f9f28b]]>
                         <SimpleString:height>
                   <mirah.lang.ast.AnnotationList>
             <mirah.lang.ast.If>: Type(implicit_nil)
@@ -20389,8 +20389,8 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:$gensym$0>
                         <SimpleString:next>
                         <mirah.lang.ast.NodeList>
-                <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
-                  <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
+                <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
+                  <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
                     <mirah.lang.ast.LocalAssignment:<SimpleString:size>>: #<Type android.hardware.Camera$Size>
                       <SimpleString:size>
                       <mirah.lang.ast.Cast>: #<Type android.hardware.Camera$Size>
@@ -20401,15 +20401,15 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                       <SimpleString:ratio>
                       <mirah.lang.ast.Cast>: #<DoubleType double>
                         <mirah.lang.ast.TypeRefImpl>
-                        <mirah.lang.ast.Call:<SimpleString:/>>: <Error: [[Cannot find instance method width() on java.lang.Object, mirah.lang.ast.PositionImpl@6c06ed0c]]>
-                          <mirah.lang.ast.Call:<SimpleString:width>>: <Error: [[Cannot find instance method width() on java.lang.Object, mirah.lang.ast.PositionImpl@6c06ed0c]]>
+                        <mirah.lang.ast.Call:<SimpleString:/>>: <Error: [[Cannot find instance method width() on java.lang.Object, mirah.lang.ast.PositionImpl@36d8e2d]]>
+                          <mirah.lang.ast.Call:<SimpleString:width>>: <Error: [[Cannot find instance method width() on java.lang.Object, mirah.lang.ast.PositionImpl@36d8e2d]]>
                             <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                               <SimpleString:size>
                             <SimpleString:width>
                             <mirah.lang.ast.NodeList>
                           <SimpleString:/>
                           <mirah.lang.ast.NodeList>
-                            <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@c086931]]>
+                            <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@33265d48]]>
                               <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                 <SimpleString:size>
                               <SimpleString:height>
@@ -20436,15 +20436,15 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                       <mirah.lang.ast.NodeList>: Type(null)
                         <mirah.lang.ast.Next>: Type(null)
                       <mirah.lang.ast.NodeList>: Type(implicit_nil)
-                    <mirah.lang.ast.If>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
-                      <mirah.lang.ast.Call:<SimpleString:<>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@f43d5f2]]>
-                        <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@f43d5f2]]>
+                    <mirah.lang.ast.If>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
+                      <mirah.lang.ast.Call:<SimpleString:<>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@19151913]]>
+                        <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@19151913]]>
                           <mirah.lang.ast.Constant:<SimpleString:Math>>: #<MetaType java.lang.Math>
                             <SimpleString:Math>
                           <SimpleString:abs>
                           <mirah.lang.ast.NodeList>
-                            <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@f43d5f2]]>
-                              <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@f43d5f2]]>
+                            <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@19151913]]>
+                              <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@19151913]]>
                                 <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                   <SimpleString:size>
                                 <SimpleString:height>
@@ -20457,20 +20457,20 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                         <mirah.lang.ast.NodeList>
                           <mirah.lang.ast.LocalAccess:<SimpleString:minDiff>>: #<DoubleType double>
                             <SimpleString:minDiff>
-                      <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
+                      <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
                         <mirah.lang.ast.LocalAssignment:<SimpleString:optimalSize>>: #<Type java.lang.Object>
                           <SimpleString:optimalSize>
                           <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                             <SimpleString:size>
-                        <mirah.lang.ast.LocalAssignment:<SimpleString:minDiff>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
+                        <mirah.lang.ast.LocalAssignment:<SimpleString:minDiff>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
                           <SimpleString:minDiff>
-                          <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
+                          <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
                             <mirah.lang.ast.Constant:<SimpleString:Math>>: #<MetaType java.lang.Math>
                               <SimpleString:Math>
                             <SimpleString:abs>
                             <mirah.lang.ast.NodeList>
-                              <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
-                                <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@186bd87]]>
+                              <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
+                                <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@1caa4160]]>
                                   <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                     <SimpleString:size>
                                   <SimpleString:height>
@@ -20522,23 +20522,23 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                               <SimpleString:$gensym$1>
                             <SimpleString:next>
                             <mirah.lang.ast.NodeList>
-                    <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
-                      <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
+                    <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
+                      <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
                         <mirah.lang.ast.LocalAssignment:<SimpleString:size>>: #<Type android.hardware.Camera$Size>
                           <SimpleString:size>
                           <mirah.lang.ast.Cast>: #<Type android.hardware.Camera$Size>
                             <mirah.lang.ast.TypeRefImpl>
                             <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                               <SimpleString:size>
-                        <mirah.lang.ast.If>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
-                          <mirah.lang.ast.Call:<SimpleString:<>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2be994d3]]>
-                            <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2be994d3]]>
+                        <mirah.lang.ast.If>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
+                          <mirah.lang.ast.Call:<SimpleString:<>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2e25ae98]]>
+                            <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2e25ae98]]>
                               <mirah.lang.ast.Constant:<SimpleString:Math>>: #<MetaType java.lang.Math>
                                 <SimpleString:Math>
                               <SimpleString:abs>
                               <mirah.lang.ast.NodeList>
-                                <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2be994d3]]>
-                                  <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2be994d3]]>
+                                <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2e25ae98]]>
+                                  <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@2e25ae98]]>
                                     <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                       <SimpleString:size>
                                     <SimpleString:height>
@@ -20551,20 +20551,20 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                             <mirah.lang.ast.NodeList>
                               <mirah.lang.ast.LocalAccess:<SimpleString:minDiff>>: #<DoubleType double>
                                 <SimpleString:minDiff>
-                          <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
+                          <mirah.lang.ast.NodeList>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
                             <mirah.lang.ast.LocalAssignment:<SimpleString:optimalSize>>: #<Type java.lang.Object>
                               <SimpleString:optimalSize>
                               <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                 <SimpleString:size>
-                            <mirah.lang.ast.LocalAssignment:<SimpleString:minDiff>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
+                            <mirah.lang.ast.LocalAssignment:<SimpleString:minDiff>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
                               <SimpleString:minDiff>
-                              <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
+                              <mirah.lang.ast.Call:<SimpleString:abs>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
                                 <mirah.lang.ast.Constant:<SimpleString:Math>>: #<MetaType java.lang.Math>
                                   <SimpleString:Math>
                                 <SimpleString:abs>
                                 <mirah.lang.ast.NodeList>
-                                  <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
-                                    <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@39916c73]]>
+                                  <mirah.lang.ast.Call:<SimpleString:->>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
+                                    <mirah.lang.ast.Call:<SimpleString:height>>: <Error: [[Cannot find instance method height() on java.lang.Object, mirah.lang.ast.PositionImpl@3db31a82]]>
                                       <mirah.lang.ast.LocalAccess:<SimpleString:size>>: #<Type java.lang.Object>
                                         <SimpleString:size>
                                       <SimpleString:height>
@@ -20893,9 +20893,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:getLayoutParams>
                           <mirah.lang.ast.NodeList>
                     <mirah.lang.ast.If>: #<Type android.widget.ListView>
-                      <mirah.lang.ast.NodeList>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@2c1af6aa]]>
-                        <mirah.lang.ast.Call:<SimpleString:!=>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@2c1af6aa]]>
-                          <mirah.lang.ast.Call:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@2c1af6aa]]>
+                      <mirah.lang.ast.NodeList>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@37bc4fcc]]>
+                        <mirah.lang.ast.Call:<SimpleString:!=>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@37bc4fcc]]>
+                          <mirah.lang.ast.Call:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@37bc4fcc]]>
                             <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                               <SimpleString:params>
                             <SimpleString:topMargin>
@@ -20905,7 +20905,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                             <mirah.lang.ast.LocalAccess:<SimpleString:barHeight>>: #<IntegerType int>
                               <SimpleString:barHeight>
                       <mirah.lang.ast.NodeList>: #<Type android.widget.ListView>
-                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@31d30caa]]>
+                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@2b0e3563]]>
                           <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                             <SimpleString:params>
                           <SimpleString:topMargin>
@@ -20933,7 +20933,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:isShowing>
                           <mirah.lang.ast.NodeList>
                       <mirah.lang.ast.NodeList>: #<Type android.widget.ListView>
-                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@37c32912]]>
+                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@3c131781]]>
                           <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                             <SimpleString:params>
                           <SimpleString:topMargin>
@@ -21015,7 +21015,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:%d||%d>: #<StringType java.lang.String>
                           <mirah.lang.ast.Cast>: #<IntegerType int>
                             <mirah.lang.ast.TypeRefImpl>
-                            <mirah.lang.ast.FieldAccess:<SimpleString:category>>: <Error: [[InferenceError, mirah.lang.ast.PositionImpl@4acc1874]]>
+                            <mirah.lang.ast.FieldAccess:<SimpleString:category>>: <Error: [[InferenceError, mirah.lang.ast.PositionImpl@1d598e09]]>
                               <SimpleString:category>
                           <mirah.lang.ast.LocalAccess:<SimpleString:pos>>: #<IntegerType int>
                             <SimpleString:pos>
@@ -21246,12 +21246,12 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
               <mirah.lang.ast.FieldAccess:<SimpleString:dualFragments>>: #<BooleanType boolean>
                 <SimpleString:dualFragments>
               <mirah.lang.ast.NodeList>: #<Type android.widget.ListView>
-                <mirah.lang.ast.Call:<SimpleString:setChoiceMode>>: <Error: [[Internal error: Class 'android.widget.AbsListView' not found., mirah.lang.ast.PositionImpl@6b148cfe]]>
+                <mirah.lang.ast.Call:<SimpleString:setChoiceMode>>: <Error: [[Internal error: Class 'android.widget.AbsListView' not found., mirah.lang.ast.PositionImpl@2fc4651e]]>
                   <mirah.lang.ast.LocalAccess:<SimpleString:lv>>: #<Type android.widget.ListView>
                     <SimpleString:lv>
                   <SimpleString:setChoiceMode>
                   <mirah.lang.ast.NodeList>
-                    <mirah.lang.ast.Call:<SimpleString:CHOICE_MODE_SINGLE>>: <Error: [[Internal error: Class 'android.widget.AbsListView' not found., mirah.lang.ast.PositionImpl@6b148cfe]]>
+                    <mirah.lang.ast.Call:<SimpleString:CHOICE_MODE_SINGLE>>: <Error: [[Internal error: Class 'android.widget.AbsListView' not found., mirah.lang.ast.PositionImpl@2fc4651e]]>
                       <mirah.lang.ast.Constant:<SimpleString:ListView>>: #<MetaType android.widget.ListView>
                         <SimpleString:ListView>
                       <SimpleString:CHOICE_MODE_SINGLE>
@@ -21379,9 +21379,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:getLayoutParams>
                           <mirah.lang.ast.NodeList>
                     <mirah.lang.ast.If>: #<Type android.widget.ListView>
-                      <mirah.lang.ast.NodeList>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@6bd3bd6a]]>
-                        <mirah.lang.ast.Call:<SimpleString:!=>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@6bd3bd6a]]>
-                          <mirah.lang.ast.Call:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@6bd3bd6a]]>
+                      <mirah.lang.ast.NodeList>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@40a95419]]>
+                        <mirah.lang.ast.Call:<SimpleString:!=>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@40a95419]]>
+                          <mirah.lang.ast.Call:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@40a95419]]>
                             <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                               <SimpleString:params>
                             <SimpleString:topMargin>
@@ -21391,7 +21391,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                             <mirah.lang.ast.LocalAccess:<SimpleString:barHeight>>: #<IntegerType int>
                               <SimpleString:barHeight>
                       <mirah.lang.ast.NodeList>: #<Type android.widget.ListView>
-                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@4d6beb9a]]>
+                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@1ff221ad]]>
                           <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                             <SimpleString:params>
                           <SimpleString:topMargin>
@@ -21419,7 +21419,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                           <SimpleString:isShowing>
                           <mirah.lang.ast.NodeList>
                       <mirah.lang.ast.NodeList>: #<Type android.widget.ListView>
-                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@7c07ee00]]>
+                        <mirah.lang.ast.AttrAssign:<SimpleString:topMargin>>: <Error: [[Internal error: Class 'android.view.ViewGroup$MarginLayoutParams' not found., mirah.lang.ast.PositionImpl@375812d8]]>
                           <mirah.lang.ast.LocalAccess:<SimpleString:params>>: #<Type android.widget.FrameLayout$LayoutParams>
                             <SimpleString:params>
                           <SimpleString:topMargin>
@@ -21480,9 +21480,9 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                   <mirah.lang.ast.NodeList>
                     <mirah.lang.ast.LocalAccess:<SimpleString:category>>: #<IntegerType int>
                       <SimpleString:category>
-            <mirah.lang.ast.LocalAssignment:<SimpleString:items>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x1ac4a40c>}>
+            <mirah.lang.ast.LocalAssignment:<SimpleString:items>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x5cb670e8>}>
               <SimpleString:items>
-              <mirah.lang.ast.Call:<SimpleString:new>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x1ac4a40c>}>
+              <mirah.lang.ast.Call:<SimpleString:new>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x5cb670e8>}>
                 <mirah.lang.ast.Constant:<SimpleString:ArrayList>>: #<MetaType java.util.ArrayList>
                   <SimpleString:ArrayList>
                 <SimpleString:new>
@@ -21502,7 +21502,7 @@ NOTE: closes block at mirah.lang.ast.StringCodeSource@41310dad:1:1
                       <SimpleString:org.mirah.gallery.R$layout>
                     <SimpleString:title_list_item>
                     <mirah.lang.ast.NodeList>
-                  <mirah.lang.ast.LocalAccess:<SimpleString:items>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x1ac4a40c>}>
+                  <mirah.lang.ast.LocalAccess:<SimpleString:items>>: #<GenericType java.util.ArrayList {"E"=>#<Java::OrgMirahTyper::GenericTypeFuture:0x5cb670e8>}>
                     <SimpleString:items>
             <mirah.lang.ast.NodeList>: Type(null)
               <mirah.lang.ast.Loop>: Type(null)

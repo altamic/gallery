@@ -253,7 +253,7 @@ class Body < Fragment
           
           updateContentAndRecycleBitmap(category, entryId);
           # Update list fragment with selected entry.
-          titlesFrag = TitlesFragment(getFragmentManager.findFragmentById R.id.titles_frag)
+          titlesFrag = Titles(getFragmentManager.findFragmentById R.id.titles_frag)
           titlesFrag.selectPosition entryId
           return true
         end

@@ -21,6 +21,7 @@ import android.widget.ArrayAdapter
 import android.widget.FrameLayout
 import android.widget.FrameLayout.LayoutParams as FrameLayoutLayoutParams
 import android.widget.ListView
+import android.widget.AbsListView
 import android.widget.TextView
 import android.util.Log
 
@@ -42,7 +43,7 @@ class Titles < ListFragment
     # that it will ordinarily sit on top of the activity layout as a top layer and
     # the ActionBar height can vary. Specifically, when on a small/normal size screen,
     # the action bar tabs appear in a second row, making the action bar twice as tall.
-    # @layoutListener = ViewTreeObserverOnGlobalLayoutListener.new do
+    # @layoutListener = lambda(ViewTreeObserverOnGlobalLayoutListener) do
     #   def onGlobalLayout:void
     #     barHeight = int(getActivity.getActionBar.getHeight)
     #     listView  = ListView(getListView)
@@ -59,6 +60,7 @@ class Titles < ListFragment
     #     end
     #   end
     # end
+    #
     # ViewTreeObserver.OnGlobalLayoutListener layoutListener = new ViewTreeObserver.OnGlobalLayoutListener() {
     #     @Override
     #     public void onGlobalLayout() {

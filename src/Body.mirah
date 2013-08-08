@@ -316,7 +316,7 @@ class Body < Fragment
       def doInBackground(params:Object[]):Object
         begin
           fo = FileOutputStream.new(tempFile, false)
-          if !this.bitmap.compress(Bitmap.CompressFormat.JPEG, 60, fo)
+          if not this.bitmap.compress(Bitmap.CompressFormat.JPEG, 60, fo)
             Toast.makeText(this.getActivity, 'Error writing bitmap data.',
                     Toast.LENGTH_SHORT).show
             Object(Boolean.FALSE)

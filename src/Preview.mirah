@@ -1,5 +1,7 @@
 package org.mirah.gallery
 
+import android.content.Context
+
 import android.hardware.Camera
 import android.hardware.Camera.CameraInfo
 import android.hardware.Camera.Size

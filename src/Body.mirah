@@ -339,7 +339,7 @@ class Body < Fragment
         shareIntent = Intent.new(Intent.ACTION_SEND)
         shareIntent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(tempFile))
         shareIntent.setType 'image/jpeg'
-        startActivity Intent.createChooser(shareIntent, 'Share photo')
+        this.startActivity Intent.createChooser(shareIntent, 'Share photo')
       end
     end.execute
   end

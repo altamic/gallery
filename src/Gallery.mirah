@@ -281,7 +281,7 @@ class Gallery < Activity
   
   def showNotification(custom:boolean):void
     res = getResources
-    notifMgr = NotificationManager(getSystemService(NOTIFICATION_SERVICE))
+    notifMgr = NotificationManager(getSystemService(getBaseContext.NOTIFICATION_SERVICE))
     
     builder = NotificationBuilder.new(self)
             .setSmallIcon(R.drawable.ic_stat_notify_example)
@@ -317,7 +317,7 @@ class Gallery < Activity
         .setContentText(getString R.string.notification_text)
     end
     
-    notifMgr.notify(NOTIFICATION_DEFAULT, builder.getNotification)
+    notifMgr.notify(@@NOTIFICATION_DEFAULT, builder.getNotification)
   end
   
   def getDialogPendingIntent(dialogText:String):PendingIntent

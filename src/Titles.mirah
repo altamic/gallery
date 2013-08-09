@@ -20,6 +20,7 @@ import android.widget.AdapterView.OnItemLongClickListener as AdapterViewOnItemLo
 import android.widget.ArrayAdapter
 import android.widget.FrameLayout
 import android.widget.FrameLayout.LayoutParams as FrameLayoutLayoutParams
+import android.view.ViewGroup.MarginLayoutParams as ViewGroupMarginLayoutParams
 import android.widget.ListView
 import android.widget.AbsListView
 import android.widget.TextView
@@ -140,7 +141,7 @@ class Titles < ListFragment
         title = String(TextView(v).getText)
         
         # Set up clip data with the category||entry_id format.
-        textData = String.format('%d||%d', int(@category), pos)
+        textData = String.format('%d||%d', @category, pos)
         data = ClipData.newPlainText(title, textData)
         v.startDrag(data, MyDragShadowBuilder.new(v), nil, 0)
         return true
@@ -215,11 +216,13 @@ class Titles < ListFragment
     cat = DirectoryCategory(Directory.getCategory category)
     
     items   = ArrayList.new
+    
+    cat.getEntryCount.times do |i|
+      items.add cat.getEntry(i).getName
+    end    
+    
     adapter = ArrayAdapter.new(getActivity, 
                                       R.layout.title_list_item, items)
-    cat.getEntryCount.times do |i|
-      adapter.add cat.getEntry(i).getName
-    end
     
     # Convenience method to attach an adapter to ListFragment's ListView
     setListAdapter(adapter)
